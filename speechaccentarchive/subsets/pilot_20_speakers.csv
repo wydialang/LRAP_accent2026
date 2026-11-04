@@ -1,0 +1,21 @@
+group,speaker,native_language,gender,age,country,onset_age,textgrid_path,wav_path
+L1,english54,english,female,40,usa,0,textgrids/sounds_textgrids_eee2/english54.TextGrid,textgrids/sounds_textgrids_eee2/english54.wav
+L1,english64,english,female,25,canada,0,textgrids/sounds_textgrids_eee2/english64.TextGrid,textgrids/sounds_textgrids_eee2/english64.wav
+L1,english109,english,female,26,usa,0,textgrids/sounds_textgrids_eee/english109.TextGrid,textgrids/sounds_textgrids_eee/english109.wav
+L1,english21,english,female,37,usa,0,textgrids/sounds_textgrids_eee2/english21.TextGrid,textgrids/sounds_textgrids_eee2/english21.wav
+L1,english93,english,female,22,usa,0,textgrids/sounds_textgrids_eee2/english93.TextGrid,textgrids/sounds_textgrids_eee2/english93.wav
+L1,english169,english,male,18,usa,0,textgrids/sounds_textgrids_eee/english169.TextGrid,textgrids/sounds_textgrids_eee/english169.wav
+L1,english75,english,male,32,usa,0,textgrids/sounds_textgrids_eee2/english75.TextGrid,textgrids/sounds_textgrids_eee2/english75.wav
+L1,english85,english,male,31,uk,0,textgrids/sounds_textgrids_eee2/english85.TextGrid,textgrids/sounds_textgrids_eee2/english85.wav
+L1,english152,english,male,18,australia,0,textgrids/sounds_textgrids_eee/english152.TextGrid,textgrids/sounds_textgrids_eee/english152.wav
+L1,english19,english,male,53,usa,0,textgrids/sounds_textgrids_eee2/english19.TextGrid,textgrids/sounds_textgrids_eee2/english19.wav
+L2,spanish42,spanish,female,80,colombia,18,textgrids/sounds_textgrids_spanish/spanish42.TextGrid,textgrids/sounds_textgrids_spanish/spanish42.wav
+L2,arabic82,arabic,male,42,syria,12,textgrids/sounds_textgrids_aaa/arabic82.TextGrid,textgrids/sounds_textgrids_aaa/arabic82.wav
+L2,french26,french,female,27,canada,11,textgrids/sounds_textgrids_fgh/french26.TextGrid,textgrids/sounds_textgrids_fgh/french26.wav
+L2,dutch7,dutch,male,68,netherlands,10,textgrids/sounds_textgrids_ddd/dutch7.TextGrid,textgrids/sounds_textgrids_ddd/dutch7.wav
+L2,portuguese22,portuguese,female,43,angola,17,textgrids/sounds_textgrids_opq/portuguese22.TextGrid,textgrids/sounds_textgrids_opq/portuguese22.wav
+L2,russian22,russian,male,30,latvia,11,textgrids/sounds_textgrids_rst/russian22.TextGrid,textgrids/sounds_textgrids_rst/russian22.wav
+L2,german14,german,female,30,austria,10,textgrids/sounds_textgrids_fgh/german14.TextGrid,textgrids/sounds_textgrids_fgh/german14.wav
+L2,mandarin9,mandarin,male,38,china,12,textgrids/sounds_textgrids_lmn/mandarin9.TextGrid,textgrids/sounds_textgrids_lmn/mandarin9.wav
+L2,italian1,italian,female,29,italy,22,textgrids/sounds_textgrids_ijk/italian1.TextGrid,textgrids/sounds_textgrids_ijk/italian1.wav
+L2,korean48,korean,male,32,south korea,27,textgrids/sounds_textgrids_ijk/korean48.TextGrid,textgrids/sounds_textgrids_ijk/korean48.wav
